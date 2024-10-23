@@ -6,7 +6,7 @@ from cinema.models import (
     Actor,
     Movie,
     MovieSession
-    )
+)
 from cinema.serializers import (
     CinemaHallSerializer,
     GenreSerializer,
